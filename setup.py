@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.1.0",
     author="Hemant Baxi",
     author_email="baxihemant@gmail.com",
-    description="Pandas Dataframe Pivot Table Widget",
+    description="Pivot Table Widget",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/hemantbaxi/PivotTable-Widget",
